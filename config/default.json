@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb+srv://camsal:camsal@devconnector.2ewbk.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientID": "f375b1443683caa03bc9",
+  "githubSecret": "c7ccb007fcc20cce52fe01371b1de1cdbfc5b33b",
+  "githubToken": "bddd9d1c8c1b0e3a8520ddf975294795d835a706"
+}
